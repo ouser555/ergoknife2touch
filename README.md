@@ -241,7 +241,7 @@ https://imgur.com/a/ag3FOmy
 
 * 開源連結
 
-  https://github.com/ouser555/ergoknife2/tree/main
+  https://github.com/ouser555/ergoknife2touch
 
   ```
   make ergoknife2:via
