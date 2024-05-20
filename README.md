@@ -7,7 +7,9 @@
 * imgur demo video link
   https://imgur.com/5lGmcCW
 
-.
+![image](https://github.com/ouser555/ergoknife2touch/blob/main/pic/001.jpg)
+
+
 
 延續了前一代Ergoknife分體鍵盤，更換了一些性能更強的組件，保留用螺絲調整的傾斜設計。
 
@@ -35,7 +37,7 @@
 
 
 
-.
+![image](https://github.com/ouser555/ergoknife2touch/blob/main/pic/006.jpg)
 
 * 左手trackpoint功能說明
 
@@ -70,7 +72,8 @@
 	
 硬體有預留一組滾輪編碼器/旋轉編碼器的接口，使用者也可以自行飛線改裝。
 
-.
+
+![image](https://github.com/ouser555/ergoknife2touch/blob/main/pic/002.jpg)
 
 * 右手trackpad功能說明
 
@@ -108,9 +111,9 @@
 
 
 
+![image](https://github.com/ouser555/ergoknife2touch/blob/main/pic/004.jpg)
 
 
-.
 
 此款鍵盤打開了大部分的RGB燈效，因為還沒針對此功能拍影片，所以可以先參考連結中其他鍵盤的功能展示
 
@@ -126,7 +129,8 @@ https://imgur.com/a/ag3FOmy
 
 
 
-.
+
+![image](https://github.com/ouser555/ergoknife2touch/blob/main/pic/007.jpg)
 
 ### 這組鍵盤同樣有提供傾斜架的3D列印檔，有需要可以自行列印。
 
